@@ -2,6 +2,8 @@
 
 ## Repoitory Prepration
  - Created Repository
- - Linked the repository
+ - Linked the repositor
+ clone Respository
+ 
 
 
