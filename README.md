@@ -3,6 +3,6 @@
 ## Repoitory Prepration
  - Created Repository
  - Linked the repository
-- Added First change	
+- Added First change in code	
 
 
